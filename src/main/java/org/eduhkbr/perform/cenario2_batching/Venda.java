@@ -1,4 +1,4 @@
-package org.eduhkbr.perform.cenario2;
+package org.eduhkbr.perform.cenario2_batching;
 
 import jakarta.persistence.*;
 import lombok.Getter;

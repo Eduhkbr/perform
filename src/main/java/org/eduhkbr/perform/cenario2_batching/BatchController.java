@@ -1,4 +1,4 @@
-package org.eduhkbr.perform.cenario2;
+package org.eduhkbr.perform.cenario2_batching;
 
 import jakarta.transaction.Transactional;
 import org.slf4j.Logger;
